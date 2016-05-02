@@ -1,0 +1,64 @@
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\App.xbf
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\MainPage.xbf
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\PushNotificationService.xr.xml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\PushNotificationService.exe
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\PushNotificationService.pdb
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\resources.pri
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\AppxManifest.xml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\bin\Debug\PushNotificationService.build.appxrecipe
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\App.g.i.cs
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\App.g.cs
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\MainPage.g.i.cs
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\MainPage.g.cs
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\App.xaml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\App.xbf
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\MainPage.xaml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\MainPage.xbf
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\PushNotificationService.exe
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\PushNotificationService.pdb
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\priconfig.xml
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\layout.resfiles
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\resources.resfiles
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\pri.resfiles
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\qualifiers.txt
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kishor Bikram Oli\AppData\Local\Temporary Projects\PushNotificationService\obj\Debug\ProjectArchitectures.txt
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\App.xbf
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\MainPage.xbf
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.xr.xml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.pdb
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\resources.pri
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\AppxManifest.xml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.build.appxrecipe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\App.g.i.cs
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\App.g.cs
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\MainPage.g.i.cs
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\MainPage.g.cs
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\App.xaml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\App.xbf
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\MainPage.xaml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\MainPage.xbf
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\PushNotificationService.exe
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\PushNotificationService.pdb
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\priconfig.xml
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\priconfig.xml.intermediate
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\layout.resfiles
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\layout.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\resources.resfiles
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\resources.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\pri.resfiles
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\pri.resfiles.intermediate
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\qualifiers.txt
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\ProjectArchitectures.txt

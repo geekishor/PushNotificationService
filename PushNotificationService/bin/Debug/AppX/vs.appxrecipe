@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KISHOR-SURFACEP</Machine>
+    <WindowsUser>Kishor Bikram Oli</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>31877Geek.Kishor.PushNotificationService</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>81814D49F9F089CA852728B458281E412DF34A84B2537202697AA4AA41562149</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>31877Geek.Kishor.PushNotificationService_1.1.0.0_neutral__qp4ghdxaq2bac</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>31877Geek.Kishor.PushNotificationService_qp4ghdxaq2bac!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>31877Geek.Kishor.PushNotificationService</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=CD4BC88E-C5BF-4392-B512-DDFB3F411362</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-01T15:56:14.296</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.exe">
+      <PackagePath>PushNotificationService.exe</PackagePath>
+      <Modified>2016-05-01T15:56:13.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\PushNotificationService.xr.xml">
+      <PackagePath>PushNotificationService.xr.xml</PackagePath>
+      <Modified>2016-05-01T11:59:34.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-05-01T11:57:58.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-01T13:37:11.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kishor Bikram Oli\Documents\Visual Studio 2015\Projects\PushNotificationService\PushNotificationService\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-01T15:56:13.682</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

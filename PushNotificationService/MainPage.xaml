@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="PushNotificationService.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PushNotificationService"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="#FF425799">
+        <Button x:Name="PushChannelBtn" Content="Get Channel Uri" FontSize="40" Click="PushChannelBtn_Click" Margin="243,164,0,482" Height="122" Width="429" />
+        <TextBox x:Name="txtChannelURI" FontSize="22" Foreground="Black" TextWrapping="Wrap"   Margin="51,484,53,203" Background="White" />
+    </Grid>
+</Page>
